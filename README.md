@@ -16,4 +16,4 @@ I’m <a href="https://github.com/PondSuphawit">pond.suphawit</a> a Thai guy wit
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 If you like what I do, maybe consider buying me a coffee/tea ❤️<br><br>
-<a href="https://ko-fi.com/pondsuphawit" target="_blank"><img src="https://github.com/PondSuphawit/pond.suhpawit/blob/main/support-bottom.gif?raw=true" alt="Buy Me A Coffee" width="325" ></a>
+<a href="https://ko-fi.com/pondsuphawit" target="_blank"><img src="https://github.com/PondSuphawit/PondSuphawit/blob/main/support-bottom.gif?raw=true" alt="Buy Me A Coffee" width="325" ></a>
